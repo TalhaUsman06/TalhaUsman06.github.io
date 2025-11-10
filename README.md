@@ -76,7 +76,8 @@
     <section>
       <h2>Education</h2>
       <ul>
-        <li><strong>Air University Islamabad</strong> – Bachelor of Science in Software Engineering (2021 – Present)</li>
+      <li><strong>Universityof Law Bloomsbury</strong> – MSc Computer Science (2025 – Present)</li>
+        <li><strong>Air University Islamabad</strong> – Bachelor of Science in Software Engineering (2021 – 2025)</li>
         <li><strong>READ Foundation College Bhimber</strong> – FSc Pre-Engineering (2019 – 2021)</li>
       </ul>
     </section>
@@ -118,7 +119,6 @@
       <h2>Technical Skills</h2>
       <ul>
         <li><strong>Programming Languages:</strong> React, Java, C++, C#, JavaScript (ES6+), HTML, CSS, Python, SQL</li>
-        <li><strong>Frameworks & Tools:</strong> Spring Boot, JavaFX, Android SDK, Firebase, Retrofit, JPA/Hibernate, SQLite, Java Swing</li>
         <li><strong>Developer Tools:</strong> Git, SQLite Browser, Firebase Console, Postman</li>
         <li><strong>Marketing Skills:</strong> Social Media Management, Content Planning, Meta/Google Ads, Cross-Platform Strategy</li>
       </ul>
@@ -128,3 +128,4 @@
 
 </body>
 </html>
+
